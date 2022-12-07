@@ -1,0 +1,20 @@
+
+.carousel-inner img{
+    height: 100vh;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cardservice:hover{
+    box-shadow: 30px 30px 30px grey;
+}
+.cardservice{
+
+    box-shadow: 20px 10px 10px rgb(175, 160, 190);
+
+}
